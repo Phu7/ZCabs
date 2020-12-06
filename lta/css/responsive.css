@@ -1,0 +1,1009 @@
+@media only screen and (max-width:1199px) {
+    section>.container,
+    section>.container-fluid {
+        padding: 30px 0
+    }
+    .container {
+        width: auto
+    }
+    .menuzord-brand {
+        margin-top: 10px
+    }
+    .header-nav .navbar-nav>li>a {
+        padding-left: 20px;
+        padding-right: 20px
+    }
+    .header-middle .rightbar li {
+        width: auto;
+        padding: 0 5px;
+        height: auto
+    }
+    .header-middle .rightbar li a {
+        font-size: 11px;
+        line-height: 5px
+    }
+    .header-middle .rightbar {
+        margin: 5px 0
+    }
+    .header .text-carousel h4 {
+        font-size: 15px
+    }
+    .about-all-home .nav-tabs>li>a {
+        padding: 48px 58px
+    }
+    .brand .item {
+        width: 50%
+    }
+    .testimonial .video-sec {
+        width: 100%
+    }
+    .location .location-delhi {
+        padding: 10px
+    }
+    .app_banner_section .app_banner_img {
+        width: auto
+    }
+    #about .pb-30 {
+        padding-bottom: 0!important
+    }
+    .about-all-home .nav-tabs {
+        margin-top: -85px
+    }
+    .about-all-home .tab-content {
+        margin-top: -115px
+    }
+    .header-top .font-12 {
+        font-size: 13px!important
+    }
+    .header-nav .leftbar li {
+        margin: 0
+    }
+    .add-location .form-group {
+        width: 65%
+    }
+    .add-location .form-group p {
+        padding-left: 5px
+    }
+    .header-nav .leftbar li.right-space {
+        margin-left: 100px
+    }
+    .counter-detail {
+        float: left;
+        width: 100%;
+        margin-top: 0;
+        padding-bottom: 10px
+    }
+    .counter-icon {
+        width: 100%
+    }
+    .batches-schedule-page .container {
+        width: auto
+    }
+    .batches-schedule-page .select-batch .col-md-4 {
+        width: 33%;
+        float: left
+    }
+    .batches-schedule-page .table,
+    .result-page .Result-year {
+        width: 100%
+    }
+    .result-page .Result-year::after,
+    .result-page .Result-year::before {
+        background: 0 0
+    }
+    .result-page .right-sec .support-row p {
+        font-size: 10px;
+        line-height: 11px;
+        padding-top: 10px
+    }
+    .result-page .right-sec .support-row .right {
+        width: 30%
+    }
+    .result-page .right-sec .support-row .left p {
+        padding-top: 15px
+    }
+    .publication-page h5 {
+        font-size: 12px
+    }
+    .cources-page .book-list .price-item {
+        width: 66%
+    }
+    .mate-2 .book-pro .box-view .left {
+        width: 65%
+    }
+    .mate-2 .book-pro .box-view .right {
+        width: 100px
+    }
+    .mate-2 .btn-xl {
+        padding-left: 23px;
+        padding-right: 23px
+    }
+    .mate-2 .book-name-slider li {
+        float: none
+    }
+    .product .product-summary .cart-form-wrapper .btn {
+        margin-bottom: 10px
+    }
+    .home-payment .bank-logo {
+        padding: 0 15px;
+        height: auto;
+        margin-bottom: 15px;
+        width: 100%;
+        text-align: center
+    }
+    #about {
+        padding: 0 15px
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .footer .social,
+    .footer-bottom,
+    .map {
+        text-align: center
+    }
+    .header .text-carousel h4 {
+        font-size: 13px
+    }
+    .header .text-carousel {
+        margin-top: 17px!important
+    }
+    h2 {
+        line-height: 35px!important
+    }
+	
+
+    .registration .col-sm-4,
+    .registration .col-sm-6 {
+        width: 100%
+    }
+    .registration .pl-0,
+    .registration .pr-0 {
+        padding: 0 15px!important
+    }
+    .registration.mt-sm-60 {
+        margin-top: 0!important
+    }
+    #about .points_table tbody {
+        height: 237px
+    }
+    .about-all-home .nav-tabs>li>a {
+        padding: 50px 44px
+    }
+    .app_banner_section .app_banner_img {
+        margin-top: 79px
+    }
+    .post.media-post .post-thumb {
+        width: 100px
+    }
+    .home-blog-item .col-sm-6 {
+        padding-bottom: 30px
+    }
+    .home-blog-item .box-colum2 {
+        height: 220px
+
+    }
+    .footer .social {
+        float: none
+    }
+    .brand .item {
+        margin: 0 auto
+    }
+    .testimonial .features {
+        margin-bottom: 30px
+    }
+    .header-nav .menuzord-menu {
+        background: 0 0;
+        float: none;
+        text-align: left
+    }
+    .header-nav .menuzord-menu>li span.gif {
+        right: auto;
+        left: 125px
+    }
+    .rightbar ul {
+        float: right
+    }
+    .header-nav .leftbar .menuzord-menu>li>a {
+        padding: 12px 2px; font-size:13px;
+    }
+    .navbar-dark .menuzord-responsive .menuzord-menu li {
+        position: relative;
+        float: none;
+        margin: 0
+    }
+    .navbar-dark .menuzord-responsive .menuzord-menu li a {
+        background: 0 0
+    }
+    .header-nav .leftbar .menuzord-menu>li>.megamenu a {
+        background: 0 0!important
+    }
+    .menuzord-menu ul.dropdown li a {
+        color: #fff!important
+    }
+    .about-all-home .nav-tabs {
+        margin-top: 0
+    }
+    .about-all-home .container {
+        padding-top: 0
+    }
+    ._2p3a,
+    .uiScaledImageContainer_2zfr {
+        width: 100%!important
+    }
+    .header-nav .leftbar a {
+        background: #f7941d;
+        padding-top: 12px;
+        color: #fff!important
+    }
+    .header-nav .leftbar a i,
+    .header-nav .leftbar a span i {
+        color: #fff
+    }
+    .header-nav .menuzord .showhide em {
+        background: #fff
+    }
+    .home-blog-item .col-sm-5 {
+        float: none;
+        margin: 0 auto;
+        clear: both
+    }
+    #about .section-content {
+        padding: 0 15px
+    }
+    .header-top .col-sm-5 {
+        width: 53%
+    }
+    .header-top .col-sm-4 {
+        width: 41%;
+        float: right
+    }
+    .header-top .col-sm-3 {
+        width: auto;
+        float: right
+    }
+    .header-top ul.styled-icons {
+        display: block;
+        float: right;
+        text-align: center
+    }
+    .main-content .features {
+        margin-top: 0
+    }
+    .main-content .mt-sm-60 {
+        margin-top: 0!important
+    }
+    .about-page .bg-lighter .registration {
+        margin-top: 0
+    }
+    .desk {
+        display: none
+    }
+    .res {
+        display: block
+    }
+    .inner-header,
+    .inner-header .text-left {
+        text-align: center
+    }
+    .about-all-home {
+        height: auto
+    }
+    .home-courses .detail h3 {
+        line-height: 25px
+    }
+    .about-all-home .tab-content {
+        margin-top: 0;
+        padding-top: 30px
+    }
+    .home-book-suppliers .detail {
+        max-width: 140px
+    }
+    .home-book-suppliers .img-sec {
+        max-width: 70px
+    }
+    .home-book-suppliers .detail p {
+        line-height: 15px
+    }
+    .home-book-suppliers .col-sm-6 {
+        width: 50%;
+        float: left
+    }
+    .home-book-suppliers .select-batch {
+        margin-top: 30px;
+        padding: 30px 15px
+    }
+    .home-payment .bank-logo {
+        padding: 0 5px
+    }
+    .about-page .col-md-8 {
+        width: 60%;
+        float: left
+    }
+    .about-page .col-md-4 {
+        width: 40%;
+        float: left
+    }
+    .cources-page .book-list .price-item,
+    .news-page .post-thumb {
+        width: auto
+    }
+    .result-page .Result-year::after,
+    .result-page .Result-year::before {
+        background: 0 0;
+        text-transform: none
+    }
+    .result-page .right-sec .support-row .right p {
+        padding-top: 0;
+        margin-top: -50px;
+        position: inherit;
+        left: auto
+    }
+    .result-page .consulting h3 {
+        font-size: 18px
+    }
+    .result-page .right-sec .support-row {
+        height: 102px
+    }
+    .result-page .Result-year .form-group {
+        margin-right: 12px
+    }
+    .result-page .box-item .title {
+        padding: 5% 0
+    }
+    .supply .pb {
+        margin: 0 5%
+    }
+    .cources-detail .box-view,
+    .suppliers li:nth-child(2n) {
+        margin-bottom: 20px
+    }
+    .suppliers li {
+        line-height: 5px
+    }
+    .news-page .post {
+        padding: 10px!important
+    }
+    .cources-page .book-list a.app-btn {
+        float: none
+    }
+    .cources-page .category li a {
+        width: 92%
+    }
+    .mate-2 .book-name-slider .box-view .right,
+    .mate-2 .book-pro .box-view .right {
+        width: 27%
+    }
+    .view-pdf {
+        margin-bottom: 25px
+    }
+    .about-all-home {
+        margin-top: 40px
+    }
+	
+	.header-top .left-bar{ float:none; display:inline-block;}
+	.header-top .col-sm-12{ text-align:center;}
+	
+	/****************************My Profile paper page css********************************/
+.profile .r-side-bar textarea{ width: 100%; }
+.profile .r-side-bar .form-group{ width: 100%; }
+.profile .tab-item a { font-size: 14px; }
+	
+}
+
+.add-location {
+    text-align: right
+}
+
+@media only screen and (max-width:767px) {
+    .about-all-home,
+    .home-blog-item .box-colum,
+    .home-blog-item .box-colum1 {
+        height: auto
+    }
+		.menuzord-responsive .showhide{ margin-top:-55px !important;}
+    .navbar-dark .header-nav-wrapper {
+        width: 100%;
+        z-index: 10;
+        position: relative;
+    }
+    .menuzord-responsive .showhide {
+        margin-top: 0px;
+    }
+    #home {
+        margin-top: 0px;
+    }
+    .brand .owl-carousel .owl-stage-outer {
+        height: auto;
+    }
+    .header-top ul.styled-icons {
+        float: none
+    }
+    .header-top .text-right {
+        text-align: center;
+        float: none
+    }
+    .header-top .left-bar {
+        display: inline-block;
+        float: none
+    }
+    .header .text-carousel {
+        margin-top: 5px!important
+    }
+    .header-middle .rightbar li {
+        padding: 10px 25px;
+        display: inline-block;
+        text-align: center
+    }
+    .add-location p {
+        margin-bottom: 0
+    }
+    .add-location a {
+        margin-bottom: 10px
+    }
+    .app_banner_section .banner_header .app-link .app_mobile_no {
+        width: 75%
+    }
+    .app_banner_section .banner_header {
+        text-align: center;
+        margin-top: 0
+    }
+    .get_the_apps {
+        display: inline-block
+    }
+    .app_banner_section .app_banner_img {
+        display: none
+    }
+    .post.media-post.clearfix.pb-0.mb-10 {
+        float: left
+    }
+    .location .location-delhi {
+        padding: 25px;
+        height: 210px;
+        float: left
+    }
+    .rightbar ul {
+        float: none
+    }
+    #about .points_table tbody {
+        height: auto;
+        margin-top: 0
+    }
+    .home-blog-item .col-sm-5 {
+        float: none;
+        margin: 0 auto;
+        width: 100%;
+        clear: both
+    }
+    .header-top .col-sm-3,
+    .header-top .col-sm-5 {
+        width: 100%
+    }
+    .registration {
+        margin: 0 15px
+    }
+    .home-blog-item,
+    .location,
+    .review {
+        padding: 0 15px
+    }
+    .header-top .col-sm-4 {
+        width: 100%;
+        float: none
+    }
+    .header-top ul.styled-icons {
+        display: block;
+        text-align: center
+    }
+    .add-location {
+        text-align: center; position:relative;
+        margin: 0 auto; float:none; display:inline-block; font-size:13px;
+        width: 49%
+    }
+	.add-location .login-bar:hover ul{ width:100%;}
+	.add-location a.location-popup{ width:100%;}
+    .add-location .form-group {
+        width: 75%
+    }
+	
+    .main-content .features {
+        margin-top: 20px
+    }
+    .about-page .col-md-4,
+    .about-page .col-md-8 {
+        width: auto;
+        float: none
+    }
+    .about-page .registration {
+        margin: 0 0 40px
+    }
+    .about-page .col-sm-4 img {
+        width: 50%
+    }
+    .about-page .col-sm-4 {
+        text-align: center
+    }
+    .about-page .fadeInLeft {
+        padding: 0
+    }
+    #Video-Testimonial .col-sm-6 {
+        width: 50%;
+        float: left
+    }
+    .batches-schedule-page .table {
+        width: 100%!important;
+        display: table
+    }
+    .batches-schedule-page .select-batch .col-md-4 {
+        width: 33%;
+        float: left
+    }
+    table {
+        width: 100%;
+        overflow-x: scroll;
+        display: block
+    }
+    #result-1 {
+        margin-bottom: 0!important
+    }
+    .result-page .Result-year {
+        padding: 10px
+    }
+    .result-page .Result-year .form-group {
+        margin-right: 8px
+    }
+    .result-page .Result-year .btn-search {
+        width: auto
+    }
+    .result-page .Result-year .btn-search .btn {
+        width: 28%
+    }
+    .result-page #result-1 .col-sm-6 {
+        width: 50%;
+        float: left
+    }
+    .result-page .right-sec .support-row .right {
+        width: 15%
+    }
+    .result-page .right-sec .support-row .right p {
+        margin-top: -58px
+    }
+    .publication-page .registration,
+    .result-page .registration,
+    .suppliers .pb {
+        margin: 0
+    }
+    .result-page .right-sec .support-row .left {
+        padding-top: 10px
+    }
+    .result-page .col-sm-4 {
+        width: auto
+    }
+    .result-page .box-item .title {
+        padding: 22% 0
+    }
+    .publication-page .col-sm-4 {
+        width: 33%;
+        float: left
+    }
+    .publication-page .col-xs-12 {
+        width: 100%!important;
+        float: none;
+        clear: both
+    }
+    .suppliers .col-sm-4 {
+        width: 50%;
+        float: left
+    }
+    .suppliers .select-batch .col-sm-5 {
+        width: 38%;
+        float: left
+    }
+    .suppliers .btn-sm {
+        padding: 8px 17px
+    }
+    .suppliers h3 {
+        line-height: 25px
+    }
+    .news-page .col-sm-4 {
+        clear: both
+    }
+    .post.media-post.clearfix.pb-0.mb-10 {
+        width: 100%
+    }
+    .news-detail-page .blog-posts {
+        margin-bottom: 15px
+    }
+    .cources-page .category {
+        width: 100%;
+        float: left;
+        margin-right: 0;
+        margin-bottom: 0
+    }
+    .cources-page .book-list .col-sm-3 {
+        width: 30%;
+        float: left
+    }
+    .cources-page .book-list .col-sm-9 {
+        width: 70%;
+        float: left
+    }
+    .cources-page .book-list .price-item,
+    .mate-2 .category {
+        width: 100%
+    }
+    .cources-page .book-list table td {
+        padding-right: 6px;
+        font-size: 11px
+    }
+    .cources-page .book-list .price-item a.btn {
+        display: block;
+        width: 100%
+    }
+    .mate-2 .col-sm-8 {
+        clear: both
+    }
+    .mate-2 .book-pro .box-view .left p {
+        padding-top: 0
+    }
+    .mate-2 .book-pro .box-view {
+        height: auto
+    }
+    .mate-2 .book-pro .box-view .right {
+        width: 32%
+    }
+    .mate-2 .book-cate a.btn {
+        margin-top: 0!important;
+        margin-left: -55px
+    }
+    .product .zoom-gallery {
+        width: 50%;
+        text-align: center;
+        margin: 0 auto 20px
+    }
+    .cources-detail .nav-tabs>li>a {
+        font-size: 13px
+    }
+    .home-courses .col-md-3 {
+        width: 50%;
+        float: left
+    }
+    .home-book-suppliers .detail {
+        max-width: 100%;
+        float: none;
+        text-align: center;
+        margin-top: 15px
+    }
+    .home-book-suppliers .detail h3 {
+        font-size: 18px
+    }
+    .home-book-suppliers .img-sec {
+        margin-right: 5px;
+        float: none;
+        max-width: 100%
+    }
+    .home-book-suppliers .col-sm-6 {
+        width: 33%
+    }
+    .home-book-suppliers .detail a.btn {
+        float: none!important;
+        display: inline
+    }
+    .home-apply .mt-80 {
+        margin-top: 20px!important
+    }
+    .home-payment .col-sm-5 {
+        clear: both;
+        border-top: solid 1px #fff
+    }
+    .home-publication .col-sm-4 {
+        width: 33%;
+        float: left
+    }
+    .paper-3 .category {
+        width: 100%
+    }
+    .cources-page table th {
+        width: 25%
+    }
+    .home-payment .bank-logo {
+        width: 100%;
+        text-align: center;
+        padding: 0 5px
+    }
+    .add-location a.location-popup {
+        float: none
+    }
+    .add-location .login-bar ul {
+        width: 77%
+    }
+    .add-location .login-bar .panel-login {
+        width: auto
+    }
+	
+	.resp-social{ display:none;}
+	.header-middle .pull-left{ float:left !important; text-align:left;}
+	.header-middle .pull-left img{ width:70%;}
+	.header-nav .resp-btn{ display:block;}
+	.header-middle .desk-web{ display:none;}
+	.header-nav .resp-btn ul{ margin-left:0px;}
+	.header-nav .resp-btn ul li a{ display:block; padding:12px 20px 12px 20px; border-bottom:solid 1px #ccc;}
+	.pub-res{ display:none}
+	
+	/****************************My Profile paper page css********************************/
+
+.profile .r-side-bar .form-group{ width: 100%; margin: 0px; padding: 0px; }
+.profile .r-side-bar .form-group .form-control{ width: 100%; }
+.profile .r-side-bar .form-group .btn{ width: 32%; }
+.profile .r-side-bar .modal-dialog {
+    width: 70%;
+    margin: 100px auto;
+}
+
+}
+
+@media only screen and (max-width:479px) {
+
+
+body,html
+{
+overflow:hidden-x !important;
+}
+    .about-all-home .nav-tabs>li {
+        text-align: center;
+        border: 1px Solid;
+        margin: 5px
+    }
+    .about-all-home .nav-tabs>li>a:hover {
+        border-color: inherit
+    }
+    .about-all-home .nav-tabs>li>a {
+        border-left: 0
+    }
+    .header-middle .rightbar li {
+        padding: 10px 14px
+    }
+    .about .pull-left {
+        float: none!important
+    }
+    .about .ml-140 {
+        margin-left: 0!important;
+        text-align: center;
+        margin-top: 15px
+    }
+    .about .director {
+        text-align: center
+    }
+
+    .testimonial span.arrow { 
+        display: none
+    }
+    .input-group .form-control {
+        float: none !important;
+        width: 100%; border-radius:5px!important;
+    }
+    .input-group .input-group-btn {
+        display: block;
+        width: auto;
+        text-align: center;
+        margin-top: 10px
+    }
+    .input-group .input-group-btn .btn {
+        border-radius: 5px!important
+    }
+    .input-group {
+        width: 100%
+    }
+    .call-to-action .col-md-6 {
+        float: none
+    }
+    .call-to-action {
+        text-align: center
+    }
+    .post.media-post.clearfix.pb-0.mb-10 {
+        width: 100%;
+        float: none;
+        text-align: center
+    }
+    .post.media-post .post-thumb {
+        float: none;
+        text-align: center;
+        width: 100%;
+        display: block
+    }
+    .post.media-post p {
+        margin-bottom: 10px!important;
+        line-height: 15px
+    }
+    .post.media-post h5 {
+        margin-bottom: 0!important
+    }
+    .home-popup a.btn1 {
+        margin-bottom: 10px
+    }
+    .post.media-post .btn-xs:hover {
+        border: 1px solid #ccc
+    }
+    .home-blog-item .btn-sm {
+        margin: 0 auto;
+        width: 100px;
+        float: none;
+        display: block
+    }
+    .location .location-delhi {
+        width: auto;
+        float: none;
+        display: block
+    }
+    .review .col-sm-4 {
+        margin-bottom: 20px
+    }
+    .testimonial .features .head-bg p {
+        text-align: left
+    }
+    .about-page .carousel {
+        width: auto;
+        margin-right: 0
+    }
+    .home-courses .col-md-3 {
+        width: 100%;
+        float: left;
+        margin-bottom: 0
+    }
+    .home-book-suppliers .col-sm-6 {
+        width: 100%
+    }
+    .home-payment .bank-logo {
+        float: none;
+        width: auto;
+        text-align: center;
+        padding: 0 10px
+    }
+    .home-publication .col-sm-4 {
+        width: 100%;
+        float: none
+    }
+    #testimonial {
+        padding: 0 15px
+    }
+    #testimonial p {
+        text-align: left
+    }
+    .result-page .Result-year .btn-search,
+    .testimonial .ml-120,
+    .testimonial .pull-left,
+    .testimonial p {
+        text-align: center
+    }
+    .app-link .btn {
+        float: right
+    }
+    .app_banner_section .banner_header .app-link .app_mobile_no {
+        width: 62%
+    }
+    .add-location .form-group {
+        width: 65%
+    }
+  
+    #Video-Testimonial .col-sm-6,
+    .director .col-xs-4 {
+        width: 100%;
+        float: none
+    }
+    .testimonial .nav-tabs>li {
+        float: none
+    }
+    .testimonial .pull-left {
+        float: none!important;
+        display: block;
+        margin: 0 auto
+    }
+    .testimonial .ml-120 {
+        margin-left: 0!important
+    }
+    .testimonial .icon img {
+        width: auto!important
+    }
+    .batches-schedule-page .select-batch .col-md-4,
+    .result-page #result-1 .col-sm-6 {
+        width: 100%;
+        float: none
+    }
+    .batches-schedule-page .select-batch .form-group {
+        margin-bottom: 10px
+    }
+    .batches-schedule-page .select-batch {
+        padding-bottom: 5px
+    }
+    .result-page .Result-year .form-group {
+        width: 100%;
+        float: none;
+        margin-bottom: 10px
+    }
+    .result-page .Result-year .btn-search .btn {
+        width: auto
+    }
+    .result-page .col-sm-4 {
+        width: 100%;
+        float: none
+    }
+    .result-page .box-item .black-bg {
+        width: 91%;
+        height: 97%
+    }
+    .cources-page .book-list .col-sm-3,
+    .cources-page .book-list .col-sm-9,
+    .cources-page .category,
+    .publication-page .col-sm-4,
+    .suppliers .col-sm-4 {
+        width: 100%;
+        float: none
+    }
+    .suppliers .pb {
+        margin: 0
+    }
+    .suppliers .select-batch .col-sm-5 {
+        width: 100%;
+        float: none;
+        margin-bottom: 10px
+    }
+    .suppliers .btn-sm {
+        margin: 0 auto;
+        display: table
+    }
+    .cources-page .category {
+        margin-right: 0;
+        margin-bottom: 0
+    }
+    .cources-page .book-list .book-title {
+        margin-top: 15px
+    }
+    .cources-page .book-list table td {
+        width: 45%;
+        display: inline-block
+    }
+    .mate-2 .book-cate .media-body {
+        text-align: center;
+        float: none
+    }
+    .mate-2 .book-cate .pull-left {
+        float: none!important;
+        background: 0 0;
+        width: auto;
+        display: block;
+        margin: 0 auto
+    }
+    .mate-2 .book-cate a.btn {
+        margin-left: 0
+    }
+    .mate-2 .book-cate .flip {
+        margin-right: 0!important
+    }
+    .cource-exam li,
+    .product .nav-tabs>li {
+        float: none;
+        margin-bottom: 10px
+    }
+    .cource-exam .online-coaching .img-sec {
+        width: auto;
+        float: none;
+        margin: 0
+    }
+    .add-location .login-bar ul {
+        width: 93%
+    }
+	
+	
+/****************************My Profile paper page css********************************/
+
+
+.profile .r-side-bar .form-group .btn{ width: 100%; margin-bottom: 10px; }
+.profile .r-side-bar .modal-dialog {
+    width: 95%;
+    margin: 100px auto;
+}
+
+.profile .tab-item .quest .col-xs-3{ width: 100%; text-align: center; }
+.profile .tab-item .quest img{ width: 50%; }
+.profile .tab-item .quest .col-sm-8 p{ text-align: center; }
+}

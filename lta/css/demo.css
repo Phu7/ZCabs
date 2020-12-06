@@ -1,0 +1,7 @@
+.header{background:#777;}
+.header a{background: center center no-repeat transparent; background-image: url(../images/iconmonstr-menu-1-48.png); display: block; width: 30px; height: 30px; position: fixed; top:5px; left: 0px; z-index:100000000000000000000000000;}
+.content{padding:0px;}
+
+@media screen and (min-width:1024px){
+.header a{display:none;}
+}

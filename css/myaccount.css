@@ -1,0 +1,52 @@
+.boxshadow{-webkit-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.18);
+ -moz-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.18);
+ box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.18);
+ 
+ padding-top:15px;
+ padding-bottom:15px;
+ border-radius:2px;}
+
+.faicon{color:#555; font-size:50px!important; float:left; margin-right:10px;}
+.carticon{color:#555; font-size:26px!important; float:left; margin-right:10px;}
+
+.profilesetting{margin-left:30px;}
+.profilesetting div{margin:10px 0px;}
+.profilesetting div a{text-decoration:none;}
+.profilesetting div a:hover{color:#E5A700;}
+
+.addaddress{border:1px solid #000; padding-top:15px; padding-bottom:15px; overflow:hidden;}
+.addressdiv{border:1px solid #000; padding-top:15px; overflow:hidden;}
+
+.ellipsis{font-size:16px!important; color:#999999;}
+.ellipsis i{width:20px; text-align:center;}
+.ellipsis .dropdown-menu ul{padding:0px!important; margin:0px!important;}
+.ellipsis .dropdown-menu li{background:none; padding:0px; border-bottom:1px solid #CCCCCC; margin-top:0px;}
+.ellipsis .dropdown-menu li a{padding:5px 10px; text-decoration:none;  margin-top:0px;}
+
+.logoutoutbtn{background:#000; color:#fff; margin-bottom:10px;}
+
+
+.panel-group .active .panel-heading{background:#000; color:#fff;}
+.panel-heading{padding:15px 10px!important; font-size:24px!important;}
+
+.edit{font-size:12px!important; color:#fff; background:#000;}
+
+
+.chekoutright {
+    border: 1px solid #000;
+    font-size: 13px;
+    color: #fff
+}
+
+.chekoutright legend {
+    margin-bottom: 0
+}
+
+.chekoutright td {
+    padding: 5px
+}
+
+.chekcouttotal {
+    color: #000;
+    font-size: 15px
+}
